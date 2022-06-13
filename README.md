@@ -12,3 +12,7 @@ This program uses the bash shell to integrate head and tail commands to seek out
 1. one
 2. two
 3. three
+
+* one
+* two
+* three
