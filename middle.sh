@@ -1,3 +1,3 @@
 # Script to print out the middle of a file
 
-head -n 15 "$1" | tail -n 5
+head -n "$2" "$1" | tail -n "$3"
