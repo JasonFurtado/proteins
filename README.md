@@ -1,7 +1,7 @@
 # proteins
 Repo for demoing git and github software carpentries lesson
 
-##Purpose
+## Purpose
 
 This program uses the bash shell to integrate head and tail commands to seek out the middle of a data file.
 
